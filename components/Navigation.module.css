@@ -1,0 +1,18 @@
+.navigation {
+  display: flex;
+  background-color: aquamarine;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.navigation ul {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  gap: 32px;
+}
+
+.navigation a:hover {
+  color: salmon;
+  text-decoration: underline;
+}
